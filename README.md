@@ -4,4 +4,4 @@
 
 Me encanta enfrentarme a retos técnicos que combinan creatividad y lógica.
 
-¡Espero que os gusten los trabajos que he hecho!
+¡Espero que os sirvan de algo los trabajos que he hecho!
