@@ -6,5 +6,6 @@ Me encanta enfrentarme a retos técnicos que combinan creatividad y lógica, y e
 
 
 🔗 Contacto
+
 LinkedIn: linkedin.com/in/nerea-gastanaga
 Email: nerea.gas@gmail.com
