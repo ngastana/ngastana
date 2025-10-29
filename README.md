@@ -45,7 +45,7 @@
 | [Philosophers](https://github.com/ngastana/Philosophers)   | [CPP02](https://github.com/ngastana/cpp_00-01-02-03-04-05)  | [Transcendence](https://github.com/uxmancis/ft_trascendence) |
 | [So_long](https://github.com/ngastana/So_long)             | [CPP03](https://github.com/ngastana/cpp_00-01-02-03-04-05)  |                                                              |
 | [Get_next_line](https://github.com/ngastana/get_next_line) | [CPP04](https://github.com/ngastana/cpp_00-01-02-03-04-05)  |                                                              |
-| [Ft_printf](https://github.com/ngastana/gt_printf)         | [CPP05](https://github.com/ngastana/cpp_00-01-02-03-04-05)  |                                                              |
+| [Ft_printf](https://github.com/ngastana/ft_printf)         | [CPP05](https://github.com/ngastana/cpp_00-01-02-03-04-05)  |                                                              |
 | [Libft](https://github.com/ngastana/libft)                 | [CPP06](https://github.com/ngastana/cpp_06)                 |                                                              |
 | [Cub3d](https://github.com/ngastana/Cub3d)                 | [CPP07](https://github.com/ngastana/cpp_07)                 |                                                              |
 | [Minishell](https://github.com/ngastana/Minishell)         | [CPP08](https://github.com/ngastana/cpp_08)                 |                                                              |
