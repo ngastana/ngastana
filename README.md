@@ -51,7 +51,7 @@
       <tr>
         <td><a href="https://github.com/ngastana/Pipex">Pipex</a></td>
         <td><a href="https://github.com/ngastana/cpp_00-01-02-03-04-05">CPP00</a></td>
-        <td><a href="https://github.com/Nerea/Inception">Inception</a></td>
+        <td><a href="https://github.com/ngastana/Inception">Inception</a></td>
       </tr>
       <tr>
         <td><a href="https://github.com/ngastana/Push_swap">Push_swap</a></td>
