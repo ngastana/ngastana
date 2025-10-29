@@ -36,19 +36,70 @@
 
 ---
 
-### ⚛️ 42 Common Core Projects
+<h3 align="center">⚛️ 42 Common Core Projects</h3>
 
-| C                         | C++                   | More            |
-|--------------------------|------------------------|-----------------|
-| [Pipex](https://github.com/ngastana/Pipex)                 | [CPP00](https://github.com/ngastana/cpp_00-01-02-03-04-05)  | [Inception](https://github.com/Nerea/Inception)              |
-| [Push_swap](https://github.com/ngastana/Push_swap)         | [CPP01](https://github.com/ngastana/cpp_00-01-02-03-04-05)  | [Irc](https://github.com/uxmancis/ft_irc)                    |
-| [Philosophers](https://github.com/ngastana/Philosophers)   | [CPP02](https://github.com/ngastana/cpp_00-01-02-03-04-05)  | [Transcendence](https://github.com/uxmancis/ft_trascendence) |
-| [So_long](https://github.com/ngastana/So_long)             | [CPP03](https://github.com/ngastana/cpp_00-01-02-03-04-05)  |                                                              |
-| [Get_next_line](https://github.com/ngastana/get_next_line) | [CPP04](https://github.com/ngastana/cpp_00-01-02-03-04-05)  |                                                              |
-| [Ft_printf](https://github.com/ngastana/ft_printf)         | [CPP05](https://github.com/ngastana/cpp_00-01-02-03-04-05)  |                                                              |
-| [Libft](https://github.com/ngastana/libft)                 | [CPP06](https://github.com/ngastana/cpp_06)                 |                                                              |
-| [Cub3d](https://github.com/ngastana/Cub3d)                 | [CPP07](https://github.com/ngastana/cpp_07)                 |                                                              |
-| [Minishell](https://github.com/ngastana/Minishell)         | [CPP08](https://github.com/ngastana/cpp_08)                 |                                                              |
-|                                                            | [CPP09](https://github.com/ngastana/cpp_09)                 |                                                              |
+<p align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>C</th>
+        <th><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/42_school_logo.svg" alt="42 Logo" width="50"/></th>
+        <th>More</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/ngastana/Pipex">Pipex</a></td>
+        <td><a href="https://github.com/ngastana/cpp_00-01-02-03-04-05">CPP00</a></td>
+        <td><a href="https://github.com/Nerea/Inception">Inception</a></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ngastana/Push_swap">Push_swap</a></td>
+        <td><a href="https://github.com/ngastana/cpp_00-01-02-03-04-05">CPP01</a></td>
+        <td><a href="https://github.com/uxmancis/ft_irc">Irc</a></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ngastana/Philosophers">Philosophers</a></td>
+        <td><a href="https://github.com/ngastana/cpp_00-01-02-03-04-05">CPP02</a></td>
+        <td><a href="https://github.com/uxmancis/ft_trascendence">Transcendence</a></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ngastana/So_long">So_long</a></td>
+        <td><a href="https://github.com/ngastana/cpp_00-01-02-03-04-05">CPP03</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ngastana/get_next_line">Get_next_line</a></td>
+        <td><a href="https://github.com/ngastana/cpp_00-01-02-03-04-05">CPP04</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ngastana/ft_printf">Ft_printf</a></td>
+        <td><a href="https://github.com/ngastana/cpp_00-01-02-03-04-05">CPP05</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ngastana/libft">Libft</a></td>
+        <td><a href="https://github.com/ngastana/cpp_06">CPP06</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ngastana/Cub3d">Cub3d</a></td>
+        <td><a href="https://github.com/ngastana/cpp_07">CPP07</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ngastana/Minishell">Minishell</a></td>
+        <td><a href="https://github.com/ngastana/cpp_08">CPP08</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td><a href="https://github.com/ngastana/cpp_09">CPP09</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</p>
 
 ---
