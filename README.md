@@ -39,7 +39,7 @@
 <h3 align="center"> 42 Common Core Projects</h3>
 
 <p align="center">
-  <table>
+  <table align="center">
     <thead>
       <tr>
         <th>C</th>
