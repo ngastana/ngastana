@@ -32,3 +32,23 @@
   <img src="https://img.shields.io/badge/Artifactory-0078D6?logo=JFrog&logoColor=white" alt="Artifactory" />
   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=white" alt="Red Hat" />
 </p>
+
+
+---
+
+### ⚛️ 42 Common Core Projects
+
+| C                         | C++                   | More            |
+|--------------------------|------------------------|-----------------|
+| [Pipex](https://github.com/ngastana/Pipex)                 | [CPP00](https://github.com/ngastana/cpp_00-01-02-03-04-05)  | [Inception](https://github.com/Nerea/Inception)              |
+| [Push_swap](https://github.com/ngastana/Push_swap)         | [CPP01](https://github.com/ngastana/cpp_00-01-02-03-04-05)  | [Irc](https://github.com/uxmancis/ft_irc)                    |
+| [Philosophers](https://github.com/ngastana/Philosophers)   | [CPP02](https://github.com/ngastana/cpp_00-01-02-03-04-05)  | [Transcendence](https://github.com/uxmancis/ft_trascendence) |
+| [So_long](https://github.com/ngastana/So_long)             | [CPP03](https://github.com/ngastana/cpp_00-01-02-03-04-05)  |                                                              |
+| [Get_next_line](https://github.com/ngastana/get_next_line) | [CPP04](https://github.com/ngastana/cpp_00-01-02-03-04-05)  |                                                              |
+| [Ft_printf](https://github.com/ngastana/gt_printf)         | [CPP05](https://github.com/ngastana/cpp_00-01-02-03-04-05)  |                                                              |
+| [Libft](https://github.com/ngastana/libft)                 | [CPP06](https://github.com/ngastana/cpp_06)                 |                                                              |
+| [Get_next_line](https://github.com/ngastana/GET_NEXT_LINE2)| [CPP07](https://github.com/ngastana/cpp_07)                 |                                                              |
+| [Minishell](https://github.com/ngastana/Minishell)         | [CPP08](https://github.com/ngastana/cpp_08)                 |                                                              |
+| [Cub3d](https://github.com/ngastana/Cub3d)                 | [CPP09](https://github.com/ngastana/cpp_09)                 |                                                              |
+
+---
