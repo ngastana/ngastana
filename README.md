@@ -36,14 +36,14 @@
 
 ---
 
-<h3 align="center">⚛️ 42 Common Core Projects</h3>
+<h3 align="center"> 42 Common Core Projects</h3>
 
 <p align="center">
   <table>
     <thead>
       <tr>
         <th>C</th>
-        <th><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/42_school_logo.svg" alt="42 Logo" width="50"/></th>
+        <th>C++</th>
         <th>More</th>
       </tr>
     </thead>
