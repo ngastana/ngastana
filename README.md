@@ -18,3 +18,6 @@
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-FFFFFF?logo=terraform&logoColor=000000)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Artifactory](https://img.shields.io/badge/Artifactory-0078D6?logo=JFrog&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=white)
