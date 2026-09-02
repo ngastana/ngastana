@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=00BFFF\&center=true\&vCenter=true\&width=800\&lines=Hi+there+%F0%9F%91%8B!+I'm+Nerea;Industrial+Engineer+%7C+MSc+in+Electrical+Engineering+%E2%9A%A1;42+Urduliz+Campus+student+%7C+Improving+my+programming+skills;Eager+to+start+AI+%26+Machine+Learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=00BFFF\&center=true\&vCenter=true\&width=800\&lines=Hi+there+%F0%9F%91%8B!+I'm+Nerea;42+Urduliz+Campus+student+%7C)
 
 <p align="center">
   <img src="https://media.tenor.com/a-TsAtfszc8AAAAM/homer-any.gif" alt="Homer Press Any Key">
